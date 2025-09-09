@@ -1,7 +1,7 @@
 # Adaptive-Ai-optimiser-Kernelsu-Magisk-module
 # Optimized Performance Init
 
-**Adaptive performance module for Snapdragon 888 (Xiaomi Devices)**
+**Adaptive performance module for Snapdragon-888_Xiaomi_Devices**
 
 A compact, safe, and adaptive init script that applies tuned `resetprop` settings for CPU, GPU, memory, 5G and audio — and adapts over time using a lightweight online-learning agent. Designed to be idempotent, minimally invasive, and reversible.
 
