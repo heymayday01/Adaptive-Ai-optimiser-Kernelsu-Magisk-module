@@ -1,0 +1,1 @@
+# Adaptive-Ai-optimiser-Kernelsu-Magisk-module
