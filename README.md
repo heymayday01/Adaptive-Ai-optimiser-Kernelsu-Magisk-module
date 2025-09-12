@@ -48,5 +48,5 @@ MIT — feel free to fork and improve. Pull requests welcome.
 
 ---
 
-*Created for Xiaomi 11X Pro (Snapdragon 888). Customize profiles and props in the script to suit other devices.*
+*Created for Xiaomi_Snapdragon 888_Devices. Customize profiles and props in the script to suit other devices.*
 
