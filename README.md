@@ -47,6 +47,3 @@ A compact, safe, and adaptive init script that applies tuned `resetprop` setting
 MIT — feel free to fork and improve. Pull requests welcome.
 
 ---
-
-*Created for Xiaomi_Snapdragon 888_Devices. Customize profiles and props in the script to suit other devices.*
-
